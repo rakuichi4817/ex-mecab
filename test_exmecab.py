@@ -1,6 +1,6 @@
 import MeCab
 
-from exmecab import exmecab
+import exmecab
 
 # exmecabの変数名について
 print(exmecab.morph_var_ja_dct)
